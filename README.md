@@ -1,6 +1,6 @@
 # Collaboration Demo Project
 
-this project is created by amirali amerian
+this project is created by Amirali Amerian.
 
 This project is used to practice Git and GitHub collaboration workflows.
 
